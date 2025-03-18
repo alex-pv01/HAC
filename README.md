@@ -1,3 +1,3 @@
-Code available soon. 
+Source code for Hyperbolic Alignment Calibration.
 
-Be patient :D
+Code available soon. 
